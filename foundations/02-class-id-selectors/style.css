@@ -1,0 +1,19 @@
+.oddbgfont {
+    background-color: #f4cccc;
+    font-family: Verdana, "DejaVu Sans", "sans-serif";
+}
+
+#one {
+    color: #1b83dd;
+    font-size: 36px;
+}
+
+#two {
+    background-color: #d9ead3;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.fontsize {
+    font-size: 24px;
+}
