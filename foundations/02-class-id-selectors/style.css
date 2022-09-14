@@ -4,12 +4,12 @@
 }
 
 #one {
-    color: #1b83dd;
+    color: rgb(0,0,255);
     font-size: 36px;
 }
 
 #two {
-    background-color: #d9ead3;
+    background-color: hsl(100,100%,80%);
     font-weight: bold;
     font-size: 24px;
 }
